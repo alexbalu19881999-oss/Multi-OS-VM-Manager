@@ -1,0 +1,28 @@
+================================================================
+       INSTALACION COMPLETADA - MULTI-OS VM MANAGER v2.0
+================================================================
+
+Gracias por instalar Multi-OS VM Manager, desarrollado por 
+OctoVM Inc.
+
+GUIA RAPIDA DE USO:
+1. Abra el programa desde el acceso directo de su Escritorio.
+2. Pulse "+ Nueva VM" para crear una instancia independiente.
+3. Seleccione una plantilla de sistema operativo o personalice 
+   el procesador, la RAM y la tarjeta grafica a su gusto.
+4. Para instalar un sistema por primera vez, elija su archivo 
+   .ISO y pulse "Arrancar con ISO".
+5. Una vez instalado el sistema, utilice siempre el boton verde 
+   "Iniciar desde Disco".
+
+ATAJOS DE TECLADO UTILES EN LA VENTANA DE LA MAQUINA VIRTUAL:
+- Liberar el raton de la ventana: Pulse Ctrl + Alt + G
+- Pantalla completa / ventana: Pulse Ctrl + Alt + F
+- Consola tecnica de QEMU: Menu View > compatmonitor0
+
+NOTA SOBRE SNAPSHOTS:
+Para guardar o restaurar un punto de restauracion sin errores, 
+asegurese de que la maquina virtual este apagada previamente.
+
+Copyright (c) 2026 OctoVM Inc. Todos los derechos reservados.
+================================================================

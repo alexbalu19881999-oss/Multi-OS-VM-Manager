@@ -1,0 +1,24 @@
+================================================================
+       MULTI-OS VM MANAGER v2.0 - BY OCTOVM INC
+================================================================
+
+Bienvenido al asistente de instalacion de Multi-OS VM Manager.
+
+CARACTERISTICAS PRINCIPALES:
+- Soporte para multiples sistemas operativos: Windows (XP, Vista, 
+  7, 8, 10, 11), Linux, macOS y sistemas retro (MS-DOS).
+- Configuracion avanzada de hardware: seleccion de CPU, nucleos,
+  memoria RAM (1 MB a 8 GB), VRAM y placas base (i440FX, Q35, ISA).
+- Gestion de Snapshots (puntos de restauracion instantaneos).
+- Soporte para imagenes ISO, disquetes (.IMG) y carpetas 
+  compartidas entre el equipo anfitrion y la maquina virtual.
+
+REQUISITOS DEL SISTEMA:
+- Sistema Operativo: Windows 10 o Windows 11 (64 bits).
+- Motor de virtualizacion: QEMU para Windows instalado en la 
+  ruta predeterminada (C:\Program Files\qemu\).
+- Espacio libre en disco: 50 MB para el gestor (mas el espacio 
+  necesario para los discos virtuales que cree el usuario).
+
+Haga clic en "Siguiente" para continuar con la instalacion.
+================================================================

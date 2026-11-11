@@ -1,0 +1,32 @@
+ACUERDO DE LICENCIA DE USUARIO FINAL (EULA)
+MULTI-OS VM MANAGER v2.0
+Copyright (c) 2026 OctoVM Inc. Todos los derechos reservados.
+
+LEA ATENTAMENTE ESTE ACUERDO ANTES DE INSTALAR EL SOFTWARE.
+
+1. CONCESION DE LICENCIA
+OctoVM Inc le otorga una licencia personal, gratuita y no exclusiva 
+para instalar y utilizar el software "Multi-OS VM Manager" en 
+cualquier equipo compatible con Microsoft Windows.
+
+2. USO Y DISTRIBUCION
+Puede utilizar este programa tanto para uso personal como educativo 
+o de pruebas de sistemas operativos. Queda permitida su libre 
+distribucion siempre que se mantenga intacto el instalador original 
+de OctoVM Inc.
+
+3. SOFTWARE DE TERCEROS Y SISTEMAS INVITADOS
+Multi-OS VM Manager actua como interfaz de gestion para el motor de 
+virtualizacion QEMU. El usuario es el unico responsable de contar 
+con las licencias legales correspondientes para los sistemas 
+operativos (Windows, Linux, macOS u otros) que decida instalar 
+dentro de las maquinas virtuales.
+
+4. EXENCION DE GARANTIAS
+Este software se proporciona "TAL CUAL", sin garantias expresas ni 
+implicitas de ningun tipo. OctoVM Inc no se hace responsable de 
+posibles perdidas de datos derivadas de un uso inadecuado de los 
+discos virtuales o puntos de restauracion (Snapshots).
+
+Al hacer clic en "Acepto el acuerdo" y continuar con la instalacion, 
+usted acepta los terminos establecidos en este documento.
